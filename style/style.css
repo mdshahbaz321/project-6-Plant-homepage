@@ -1,0 +1,106 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 40px;
+    background-color: #F4F3F8;
+}
+.mainimg_div{
+    position: absolute;
+    right: 1%;
+    top: 20%;
+}
+.main-img{
+    width:500px;
+
+}
+.menu_bar{
+   margin: 30px;
+   display: inline-block;
+   text-align: right;
+   font-size: 20px;
+   font-weight: 600;
+   font-family: sans-serif;
+    
+}
+#main_menu{
+    position: absolute;
+    right: 30%;
+    top: 3%;
+    cursor: pointer;
+}
+.menu_bar:hover{
+    font-weight: 700;
+    border: 0;
+    border-bottom: 2px solid #000;
+}
+.navend_img{
+    width: 20px;
+    float:right;
+    margin: 15px;
+    margin-top: -4ch;
+    cursor: pointer;
+}
+#navEnd{
+    position: relative;
+    right: 2%;
+    top: 1%;
+}
+#midWhole{
+    position: absolute;
+    top: 35%;
+
+}
+#monstera{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size: 100px;
+    letter-spacing: 6px;
+    margin-bottom: 0;
+}
+#midWholePart12{
+    width: 200px;
+    height: 50px;
+    background-color: #466D50;
+    border: none;
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 0px;
+    color: #ffffff;
+    font-family: calibri;
+    position: absolute;
+    left: 10%;
+    top: 55%;
+
+}
+.dico_logo{
+    width: 15px;
+    margin-left: 6px;
+  
+
+}
+.disco_txt{
+    margin-top: 7px;
+}
+.midWholePart13Parts{
+    /* float: left; */
+    display: inline-block;
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+    margin-right: 40px;
+}
+#midWholePart13{
+    position: relative;
+    margin-top: 15vh;
+}
+.end_logo{
+    width: 30px;
+}
+.port{
+    width: 60px;
+}
+.care{
+    width: 40px;
+}
+
